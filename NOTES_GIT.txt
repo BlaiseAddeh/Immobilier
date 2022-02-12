@@ -1,0 +1,10 @@
+COMMANDES GIT
+
+Git init
+Git init [repository]
+
+git status ----> voir les fichiers suivis dans Git
+                   dans les différentes étapes
+git add [file name] ----> suivre un fichier via Git
+git add . ----> suivre tous les fichiers du repertoire 
+
